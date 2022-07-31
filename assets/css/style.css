@@ -102,10 +102,12 @@ footer h3 {
     font-size: 20px;
 }
 
+/*Class for the letters in the Horiseon header to change the colour*/
 .seo {
     color: #d9dcd6;
 }
 
+/*Class for the banner image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -115,16 +117,7 @@ footer h3 {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*Class for the 3 sections within the Main element*/
 .main {
     margin-bottom: 20px;
     padding: 50px;
@@ -134,6 +127,19 @@ footer h3 {
     color: #ffffff;
 }
 
+/*Class for 2 of the images in the Main element*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/*Class for 1 image in the Main element*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*Class for the 3 sections in the Aside element*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
