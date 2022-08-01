@@ -9,6 +9,10 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+I was given the task of Refactoring the Horiseon Web Page.  The client had found a few issues with the webpage and whilst getting those fixed wanted both the HTML and Css code to be tidied up, the stylesheet consolidated and comments inserted throughout to make the documents easier to navigate in the future. 
+
+My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. 
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -34,11 +38,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I mainly used the following sites to ensure my index used suitable elements:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+[https://developer.mozilla.org/en-US/docs/Web/HTML](mdn web docs HTML Guide)
 
-If you followed tutorials, include links to those here as well.
+I then used the following sites to template my README and learn how to format it:
+
+[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](Professional README Guide)
 
 ## License
 
