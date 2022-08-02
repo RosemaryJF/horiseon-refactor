@@ -13,6 +13,10 @@ I was given the task of Refactoring the Horiseon Web Page.  The client had found
 
 My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. 
 
+The problems solved were a broken link, and the pages accessability. 
+
+I was able to practice the input of HTML semantic elements instead of a code relying on <div>. From this I was able to I further my knowledge of how to format HTML elements via the stylesheet.
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
