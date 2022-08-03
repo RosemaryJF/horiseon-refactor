@@ -16,13 +16,13 @@ The problems solved were:
 * A broken navigation link
 * Lack of alt= attributes on images/icons
 
-I was able to practice the input of HTML semantic elements instead of a code relying on <div>. From this formatting I was then able to further my knowledge on how to format/consolidate HTML elements via the stylesheet.
+I was able to practice the input of HTML semantic elements instead of a code relying on the div element. From this formatting I was then able to further my knowledge on how to format/consolidate HTML elements via the stylesheet.
 
 ---
 
 ## Installation
 
-Will work on most (if not all) browsers. 
+Will work on most browsers (if not all). 
 
 No specific additional programs needed for it to run.
 
@@ -30,7 +30,7 @@ No specific additional programs needed for it to run.
 
 ## Usage
 
-To use the navigation
+To use the navigation simply hover your cursor over the spaced titles and click. You will then be taken to the relevant box. Refer to the screenshot below for what the navigation bar looks like:
 
 ![Screen shot of Navigation Link](./assets/images/screenshot_nav.png)
 
@@ -38,13 +38,19 @@ To use the navigation
 
 ## Credits
 
-I mainly used the following sites to ensure my index used suitable elements:
+I used the following sites to ensure my HTML and CSS files used appropriate structure and commenting:
 
-[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+* [https://developer.mozilla.org/en-US/docs/Learn/Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-I then used the following sites to template my README and learn how to format it:
+The used the below sitez for my README template and learning how to format it:
 
-[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+* [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+* [https://commonmark.org/help/](https://commonmark.org/help/)
+* [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+
 
 ---
 
