@@ -4,9 +4,9 @@
 
 ---
 
-The client had found a few issues with the webpage and, whilst getting those fixed wanted both the HTML and Css code to be tidied up, and both documents made easier to navigate.
+The client found a few issues with the webpage and, whilst getting those fixed wanted the backend code to be tidied up, and both documents made easier to navigate.
 
-My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. In addition to this I added comments throughout the HTML and Css to provide easier navigation for myself and future developers.
+My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. In addition to this I added comments throughout the HTML and CSS to provide easier navigation for myself and future developers.
 
 The problems solved were:
 * No project README 
@@ -14,7 +14,7 @@ The problems solved were:
 * No favicon
 * Non-semantic elements in the HTML 
 * A broken navigation link
-* Lack of alt= attributes on images/icons
+* Lack of accessability alt= attributes on images/icons
 
 I was able to practice the input of HTML semantic elements instead of a code relying on the div element. From this formatting I was then able to further my knowledge on how to format/consolidate HTML elements via the stylesheet.
 
@@ -34,6 +34,8 @@ To use the navigation simply hover your cursor over the spaced titles and click.
 
 ![Screen shot of Navigation Link](./assets/images/screenshot_nav.png)
 
+The rest of the page is fairly simple without any further click events. 
+
 ---
 
 ## Credits
@@ -45,18 +47,11 @@ I used the following sites to ensure my HTML and CSS files used appropriate stru
 * [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 * [https://developer.mozilla.org/en-US/docs/Learn/Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-The used the below sitez for my README template and learning how to format it:
+The used the below sites for my README template and learning how to format it:
 
 * [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 * [https://commonmark.org/help/](https://commonmark.org/help/)
 * [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
-
-
----
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
 
