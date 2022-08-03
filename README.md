@@ -2,20 +2,13 @@
 
 ## Refactor of the Horiseon Page
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I was given the task of Refactoring the Horiseon Web Page.  The client had found a few issues with the webpage and whilst getting those fixed wanted both the HTML and Css code to be tidied up, and the documents made easier to navigate in the future. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-I was given the task of Refactoring the Horiseon Web Page.  The client had found a few issues with the webpage and whilst getting those fixed wanted both the HTML and Css code to be tidied up, the stylesheet consolidated and comments inserted throughout to make the documents easier to navigate in the future. 
-
-My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. 
+My motivation was to maintain consistency on the UI but try to re-work the back end to simplify it as much as possible. In addition to this I added comments throughout the HTML and Css to provide easier navigation for myself and future developers.
 
 The problems solved were a broken link, and the pages accessability. 
 
-I was able to practice the input of HTML semantic elements instead of a code relying on <div>. From this I was able to I further my knowledge of how to format HTML elements via the stylesheet.
+I was able to practice the input of HTML semantic elements instead of a code relying on <div>. From this I was able to further my knowledge on how to format HTML elements via the stylesheet.
 
 ## Table of Contents (Optional)
 
@@ -44,11 +37,11 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 I mainly used the following sites to ensure my index used suitable elements:
 
-[https://developer.mozilla.org/en-US/docs/Web/HTML](mdn web docs HTML Guide)
+[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 I then used the following sites to template my README and learn how to format it:
 
-[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](Professional README Guide)
+[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
