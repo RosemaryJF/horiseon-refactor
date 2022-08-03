@@ -1,3 +1,4 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Outlines header element selectors*/
+/* Header element selectors */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,7 +22,12 @@ header h1 {
     font-size: 48px;
 }
 
-/*Selectors for the Navigation links*/
+/* Change of font colour for seo in Horiseon header text */
+.seo {
+    color: #d9dcd6;
+}
+
+/* Navigation links */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,30 +47,62 @@ header nav a {
     text-decoration: none;
 }
 
-/*Outlines the rules for the main element*/
+/* Banner Image */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Main element selectors */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*Selectors for headers in the main element*/
+/* Headers in the main element */
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*Selector for images in the main element*/
+/* Images in the main element */
 main img {
     max-height: 200px;
 }
 
-/*Selector for paragraphs within the main element*/
+/* Paragraphs within the main element */
 main p {
     font-size: 16px;
 }
 
-/*Outlines the rules for the aside element*/
+/* Class for the 3 sections within the Main element */
+.main {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Class for 2 of the images in the Main element */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Class for 1 image in the Main element */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Aside element selectors */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -76,20 +114,26 @@ aside {
     background-color: #2589bd;
 }
 
-/*Selector for headers in the aside element*/
+/* Headers in the aside element */
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Selector for icons in the aside element*/
+/* Icons in the aside element */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*Selectors for the footer element*/
+/* Class for the 3 sections in the Aside element */
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Footer element selectors */
 footer {
     padding: 30px;
     clear: both;
@@ -97,50 +141,7 @@ footer {
     text-align: center;
 }
 
-/*Selector of the footer header*/
-footer h3 {
+/* Footer header */
+footer h4 {
     font-size: 20px;
-}
-
-/*Class for the letters in the Horiseon header to change the colour*/
-.seo {
-    color: #d9dcd6;
-}
-
-/*Class for the banner image*/
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-/*Class for the 3 sections within the Main element*/
-.main {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*Class for 2 of the images in the Main element*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/*Class for 1 image in the Main element*/
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/*Class for the 3 sections in the Aside element*/
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
 }
