@@ -34,7 +34,9 @@ To use the navigation simply hover your cursor over the spaced titles and click.
 
 ![Screen shot of Navigation Link](./assets/images/screenshot_nav.png)
 
-The rest of the page is fairly simple without any further click events. 
+To view the deployed website visit the link below:
+
+[https://rosemaryjf.github.io/horiseon-refactor/](https://rosemaryjf.github.io/horiseon-refactor/)
 
 ---
 
